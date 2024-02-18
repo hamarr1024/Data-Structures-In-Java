@@ -1,4 +1,4 @@
-package cc.hammarr.binarytree;
+package cc.hamarr.binarytree;
 
 
 public class AVLTree<E extends Comparable<E>> extends BalancedBinarySearchTree<E> {

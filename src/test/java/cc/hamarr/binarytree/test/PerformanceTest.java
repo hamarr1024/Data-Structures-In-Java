@@ -1,11 +1,8 @@
 package cc.hamarr.binarytree.test;
 
-import cc.hammarr.binarytree.AVLTree;
-import cc.hammarr.binarytree.BinarySearchTree;
-import cc.hammarr.binarytree.RBTree;
+import cc.hamarr.binarytree.AVLTree;
+import cc.hamarr.binarytree.RBTree;
 import org.junit.Test;
-
-import java.util.*;
 
 public class PerformanceTest {
 

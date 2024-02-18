@@ -1,6 +1,5 @@
-package cc.hammarr.binarytree;
+package cc.hamarr.binarytree;
 
-import cc.hamarr.utils.BinaryTreeInfo;
 import cc.hamarr.utils.BinaryTrees;
 
 public class RBTree<E extends Comparable<E>> extends BalancedBinarySearchTree<E> {

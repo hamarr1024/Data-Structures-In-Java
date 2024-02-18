@@ -1,7 +1,7 @@
 package cc.hamarr.binarytree.test;
 
 import cc.hamarr.utils.BinaryTrees;
-import cc.hammarr.binarytree.RBTree;
+import cc.hamarr.binarytree.RBTree;
 
 import java.util.Scanner;
 

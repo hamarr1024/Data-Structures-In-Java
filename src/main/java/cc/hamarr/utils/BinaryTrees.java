@@ -1,6 +1,6 @@
 package cc.hamarr.utils;
 
-import cc.hammarr.binarytree.BinarySearchTree;
+import cc.hamarr.binarytree.BinarySearchTree;
 
 /**
  * 
